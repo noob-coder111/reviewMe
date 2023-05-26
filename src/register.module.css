@@ -1,0 +1,102 @@
+.box {
+  position:absolute;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  margin-left: 37%;
+  margin-top: 10%;
+}
+
+.content1 {
+  border: 0px;
+  background-color: white;
+  width: auto;
+  height: auto;
+  padding-top: 30px;
+  border-radius: 10px;
+}
+.content2 {
+  border: 0px;
+  background-color: white;
+  width: auto;
+  height: auto;
+  padding-left: 20px;
+  padding-top: 30px;
+  border-radius: 10px;
+}
+
+.heading {
+  text-align: center;
+  font-size: large;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+.inputbox {
+  width: 300px;
+  height: 35px;
+  /* margin-left: 10px; */
+  /* position: relative;
+  left: 35px; */
+  border-radius: 5px;
+  border: 0.5px solid burlywood;
+}
+
+.sign {
+  width: 80px;
+  height: 40px;
+  padding: 5px;
+  border-radius: 8px;
+  background-color: brown;
+  color: white;
+  border: none;
+  margin-top: 25px;
+  margin-left: 40%;
+  
+}
+
+.title {
+  font-size: 14px;
+  text-align: left;
+  padding-left: 50px;
+  padding-bottom: 10px;
+
+}
+
+.input {
+  padding-top: 5px;
+  font-size: small;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+.existing {
+  display: flex;
+  font-size: 13px;
+  padding-top: 17px;
+  margin-left: 25%;
+  /* padding-left: 65px; */
+}
+.loginsignup {
+  background-color: white;
+  border: 0px;
+  font-size: 13px;
+  margin-top: -15%;
+  color: rgb(100, 100, 242);
+}
+.remember {
+  margin-left: 8px;
+}
+
+.login{
+  width: 80px;
+  height: 40px;
+  padding: 5px;
+  border-radius: 8px;
+  background-color: brown;
+  color: white;
+  border: none;
+  margin-top: 25px;
+}
+
+/* ////////////////////////////////////////// */

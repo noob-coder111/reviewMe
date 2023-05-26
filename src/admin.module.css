@@ -1,0 +1,35 @@
+.card {
+  border-radius: 10px;
+  width: 50rem;
+  height: auto;
+  border: 1px solid darksalmon;
+  padding: 8px;
+  text-align: left;
+  margin: 20px;
+  background-color: beige;
+}
+
+.container {
+  display: flex;
+}
+
+button {
+  border-radius: 5px;
+  border: none;
+  color: white;
+  background-color: brown;
+  height: auto;
+  margin: 2px;
+  padding: 10px;
+}
+
+p {
+  font-weight: bold;
+}
+.logoutbtn {
+  position: absolute;
+  background-color: burlywood !important;
+  right: 0px;
+  margin: 10px;
+  margin-right: 20px;
+}

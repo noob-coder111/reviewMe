@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "email": "deepak@gmail.com",
+      "password": "$2a$10$kZCZZ/uLsy8.QWGAArod1OWgOEMCbIGvFBuANoiJsZExJHUpf8hk6",
+      "name": "Deepak",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "aaditya@gmail.com",
+      "password": "$2a$10$FPMrhaafCNxRdhlZ57GaFuztEwaiC/cT/arAP8dsNzt4WCfSzh.zG",
+      "name": "Aaditya",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$1EPZ76y9MhulrBpxSUkDMuJJsrVGcPJROZZXDd2j0DIwx2NHKfImW",
+      "name": "abc",
+      "role": "user",
+      "id": 3
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Nawab",
+      "address": "Pallavaram",
+      "avgrating": "4",
+      "id": 1
+    },
+    {
+      "name": "Golcondas",
+      "address": "Guduvanchery",
+      "avgrating": "4.5",
+      "id": 2
+    },
+    {
+      "name": "KFC",
+      "address": "Potheri",
+      "avgrating": "4",
+      "id": 3
+    },
+    {
+      "name": "Taj",
+      "address": "Maraimalai Nagar",
+      "avgrating": "3",
+      "id": 4
+    }
+  ],
+  "feedbacks": [
+    {
+      "restaurantname": "Golcondas",
+      "comment": "Goofy",
+      "rating": "1",
+      "useremail": "abc@gmail.com",
+      "id": "Golcondas+abc@gmail.com",
+      "userId": 3
+    },
+    {
+      "restaurantname": "Taj",
+      "comment": "Good one",
+      "rating": "4",
+      "useremail": "deepak12345@gmail.com",
+      "id": "Taj+deepak12345@gmail.com",
+      "userId": 1
+    },
+    {
+      "restaurantname": "Nawab",
+      "comment": "OP Chicken 👍",
+      "rating": "4",
+      "useremail": "abc@gmail.com",
+      "id": "Nawab+abc@gmail.com",
+      "userId": 3
+    },
+    {
+      "restaurantname": "Nawab",
+      "comment": "It was Good",
+      "rating": "4",
+      "useremail": "aaditya@gmail.com",
+      "id": "Nawab+aaditya@gmail.com",
+      "userId": 2
+    },
+    {
+      "restaurantname": "KFC",
+      "comment": "Bekar chicken 😒",
+      "rating": "1",
+      "useremail": "abc@gmail.com",
+      "id": "KFC+abc@gmail.com",
+      "userID": 3
+    }
+  ]
+}

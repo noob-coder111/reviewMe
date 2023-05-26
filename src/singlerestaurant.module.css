@@ -1,0 +1,64 @@
+.card{
+    display: block;
+    position: relative;
+    left: 37%;
+    margin: 10px;
+    border-radius: 10px;
+    width: 25rem;
+    height: auto;
+    background-color: #fff;
+    padding: 6px;
+    text-align: center;
+}
+
+.rating{
+    position: absolute;
+    left: 250px;
+    top: 20px;
+    color: brown;
+    
+    
+
+}
+li{
+    list-style: none;
+}
+
+
+h1{
+    padding-top: 7px;
+    text-align: left;
+    color:darksalmon;
+}
+
+h5{
+    color:darksalmon;
+    padding-top: 15px;
+    text-align: left;
+    
+}
+
+.comment{
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    border:1px solid darksalmon;
+    padding: 8px;
+    text-align: center;
+    margin: 7px;
+    
+}
+
+.comment:hover{
+    border: 1px solid brown;
+}
+
+.redText{
+    color: yellow;
+}
+
+.userComment{
+    margin-top: 25px;
+    color:brown;
+    
+}

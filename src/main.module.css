@@ -1,0 +1,9 @@
+.headerBtn{
+    display: flex;
+    justify-content: end;
+    margin: 10px;
+}
+
+.filterBtn{
+    padding-right: 5px;
+}

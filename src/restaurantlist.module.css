@@ -1,0 +1,30 @@
+.card{
+    position: relative;
+    left: 37%;
+    margin: 10px;
+    border-radius: 10px;
+    width: 25rem;
+    height: 12rem;
+    background-color: #fff;
+    padding: 6px;
+    text-align: center;
+}
+
+.showbtn{
+    border-radius: 5px;
+    border-style: none;
+    padding:0;
+    text-align: center;
+    color: aliceblue;
+    width: 45px;
+    height: auto;
+    background-color: burlywood;
+}
+
+h3{
+    color: brown;
+}
+
+p{
+    color: brown;
+}

@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "email": "deepak@gmail.com",
+      "password": "$2a$10$jngiuoNZHXzJUw8Gy1wf8eluQV41SpfTW0Rv7au1hBgWu55Bo.bo6",
+      "name": "Deepak",
+      "id": 1
+    },
+    {
+      "email": "aaditya@gmail.com",
+      "password": "$2a$10$FPMrhaafCNxRdhlZ57GaFuztEwaiC/cT/arAP8dsNzt4WCfSzh.zG",
+      "name": "Aaditya",
+      "id": 2
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$1EPZ76y9MhulrBpxSUkDMuJJsrVGcPJROZZXDd2j0DIwx2NHKfImW",
+      "name": "abc",
+      "id": 3
+    },
+    {
+      "email": "aryan@gmail.com",
+      "password": "$2a$10$5tu8Gta36kWdZmoIBIk/E.Kwoa3E8CuKGpEuAM.IGvt4tBuFdyrCq",
+      "name": "Aryan ",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Nawab",
+      "address": "Pallavaram",
+      "avgrating": "4",
+      "id": 1
+    },
+    {
+      "name": "Golcondas",
+      "address": "Guduvanchery",
+      "avgrating": "4.5",
+      "id": 2
+    },
+    {
+      "name": "KFC",
+      "address": "Potheri",
+      "avgrating": "4",
+      "id": 3
+    },
+    {
+      "name": "Taj",
+      "address": "Maraimalai Nagar",
+      "avgrating": "3",
+      "id": 4
+    }
+  ],
+  "feedbacks": [
+    {
+      "restaurantname": "Nawab",
+      "comment": "Good one",
+      "rating": "4",
+      "useremail": "abc@gmail.com",
+      "id": 1
+    },
+    {
+      "restaurantname": "KFC",
+      "comment": "Good ambience",
+      "rating": "3",
+      "useremail": "deepak@gmail.com",
+      "id": 2
+    },
+    {
+      "restaurantname": "Nawab",
+      "comment": "hi",
+      "rating": "4",
+      "useremail": "undefined",
+      "id": "Nawab+undefined"
+    },
+    {
+      "restaurantname": "KFC",
+      "comment": "hello kfc",
+      "rating": "4",
+      "useremail": "undefined",
+      "id": "KFC+undefined"
+    },
+    {
+      "restaurantname": "Taj",
+      "comment": "Too much delay in order",
+      "rating": "2",
+      "useremail": "undefined",
+      "id": "Taj+undefined"
+    },
+    {
+      "restaurantname": "Golcondas",
+      "comment": "Good food quality",
+      "rating": "4",
+      "useremail": "undefined",
+      "id": "Golcondas+undefined"
+    },
+    {
+      "restaurantname": "Golcondas",
+      "comment": "maal",
+      "rating": "3",
+      "useremail": "abc@gmail.co",
+      "id": "Golcondas+abc@gmail.co"
+    },
+    {
+      "restaurantname": "Nawab",
+      "comment": "khjh",
+      "rating": "3",
+      "useremail": "aryan@gmail.co",
+      "id": "Nawab+aryan@gmail.co"
+    }
+  ]
+}
